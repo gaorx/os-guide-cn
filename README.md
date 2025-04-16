@@ -19,23 +19,23 @@
 
 ## 目录
 
-[1、前期准备](https://github.com/gaorx/os-guide-cn/blob/main/01.%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87)
+[01、前期准备](https://github.com/gaorx/os-guide-cn/blob/main/01.%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87)
 
-[2、引导扇区](https://github.com/gaorx/os-guide-cn/blob/main/02.%E5%BC%95%E5%AF%BC%E6%89%87%E5%8C%BA)
+[02、引导扇区](https://github.com/gaorx/os-guide-cn/blob/main/02.%E5%BC%95%E5%AF%BC%E6%89%87%E5%8C%BA)
 
-[3、引导打印](https://github.com/gaorx/os-guide-cn/blob/main/03.%E5%BC%95%E5%AF%BC%E6%89%93%E5%8D%B0)
+[03、引导打印](https://github.com/gaorx/os-guide-cn/blob/main/03.%E5%BC%95%E5%AF%BC%E6%89%93%E5%8D%B0)
 
-[4、引导内存](https://github.com/gaorx/os-guide-cn/blob/main/04.%E5%BC%95%E5%AF%BC%E5%86%85%E5%AD%98)
+[04、引导内存](https://github.com/gaorx/os-guide-cn/blob/main/04.%E5%BC%95%E5%AF%BC%E5%86%85%E5%AD%98)
 
-[5、引导栈](https://github.com/gaorx/os-guide-cn/blob/main/05.%E5%BC%95%E5%AF%BC%E6%A0%88)
+[05、引导栈](https://github.com/gaorx/os-guide-cn/blob/main/05.%E5%BC%95%E5%AF%BC%E6%A0%88)
 
-[6、函数和字符串](https://github.com/gaorx/os-guide-cn/tree/main/06.%E5%87%BD%E6%95%B0%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2)
+[06、函数和字符串](https://github.com/gaorx/os-guide-cn/tree/main/06.%E5%87%BD%E6%95%B0%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2)
 
-[7、引导段](https://github.com/gaorx/os-guide-cn/tree/main/07.%E5%BC%95%E5%AF%BC%E6%AE%B5)
+[07、引导段](https://github.com/gaorx/os-guide-cn/tree/main/07.%E5%BC%95%E5%AF%BC%E6%AE%B5)
 
-[8、引导扇区磁盘](https://github.com/gaorx/os-guide-cn/blob/main/08.%E5%BC%95%E5%AF%BC%E6%89%87%E5%8C%BA%E7%A3%81%E7%9B%98)
+[08、引导扇区磁盘](https://github.com/gaorx/os-guide-cn/blob/main/08.%E5%BC%95%E5%AF%BC%E6%89%87%E5%8C%BA%E7%A3%81%E7%9B%98)
 
-[9、32 位打印](https://github.com/gaorx/os-guide-cn/tree/main/09.32%E4%BD%8D%E6%89%93%E5%8D%B0)
+[09、32 位打印](https://github.com/gaorx/os-guide-cn/tree/main/09.32%E4%BD%8D%E6%89%93%E5%8D%B0)
 
 [10、32 位 GDT](https://github.com/gaorx/os-guide-cn/tree/main/10.32%E4%BD%8D-gdt)
 
