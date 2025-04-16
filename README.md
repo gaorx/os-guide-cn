@@ -20,7 +20,7 @@
 
 ## 目录
 
-[1、前期准备](https://github.com/yanull/os-guide-cn/tree/main/1.%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87)
+[1、前期准备](https://github.com/gaorx/os-guide-cn/blob/main/1.%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87/readme.md)
 
 [2、引导扇区](https://github.com/yanull/os-guide-cn/blob/main/2.%E5%BC%95%E5%AF%BC%E6%89%87%E5%8C%BA)
 
